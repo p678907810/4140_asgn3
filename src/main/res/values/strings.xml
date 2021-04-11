@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chevereto</string>
+    <string name="emailOrName">Username Or Email address</string>
+    <string name="password">Password</string>
+    <string name="signInButtonValue">SIGN IN TO CHEVERETO</string>
+</resources>
